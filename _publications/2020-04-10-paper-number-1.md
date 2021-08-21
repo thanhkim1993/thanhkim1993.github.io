@@ -1,7 +1,7 @@
 ---
 title: "Validation of predictive equations against DXA for estimation of body fat composition in Vietnamese children"
 collection: publications
-permalink: /publication/2020-04-paper-number-1.md
+permalink: /publication/2020-04-10-paper-number-1.md
 excerpt: 'A tool to predict body fat in children.'
 date: 2020-04
 venue: 'MedPharmRes'
