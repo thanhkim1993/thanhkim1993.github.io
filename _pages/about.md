@@ -23,9 +23,9 @@ Master of Science (2021- ) International Health Program, School of Medicine, Nat
 
 Research grants
 ---------------
-Faculty grant ~ 1,150$ USD (2018) Childhood Bone Mineral Density Project
+Faculty grant ~ 1,150$ USD (2018) Childhood Bone Mineral Density Project (Principle Investigator)
 
-Faculty grant ~ 4,200$ USD (2019) International Study of Movement Behaviours in the Early Years (SUNRISE) project
+Faculty grant ~ 4,200$ USD (2019) International Study of Movement Behaviours in the Early Years SUNRISE project (VietNam-site chief investigator) 
 
 Awards
 ------
