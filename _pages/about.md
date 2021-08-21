@@ -35,23 +35,23 @@ Publications
 ------------
 **2020**
 
-1. **Kim, T.V.**, Do, T.M., Tran, T.T., Ngo, X.M. and Tang, H.K., 2020. Validation of predictive equations against DXA for estimation of body fat composition in Vietnamese children. MedPharmRes, 4(2), pp.11-15. DOI:10.32895/UMP.MPR.4.2.2
+1. **Kim TV**, Do TM, Tran TT, Ngo XM, Tang HK. Validation of predictive equations against DXA for estimation of body fat composition in Vietnamese children. MedPharmRes 2020;4:11-5. DOI:10.32895/UMP.MPR.4.2.2
 
-2. Do, T.M., Van, T.K., Bich, H.T., Tran, T.T., Ngo, M.X. and Tang, H.K., 2020. Validity of puberty self-report in children and adolescents in Ho Chi Minh City. MedPharmRes, 4(4), pp.33-37. DOI:10.32895/UMP.MPR.4.4.6
+2. **Do TM**, **Van TK**, Bich HT, Tran TT, Ngo MX, Tang HK. Validity of puberty self-report in children and adolescents in Ho Chi Minh City. MedPharmRes 2020;4:33-7. DOI:10.32895/UMP.MPR.4.4.6
 
 **2021**
 
-1. Okely, A.D., Kariippanon, K.E., Guan, H., Taylor, E.K., Suesse, T., Cross, P.L., Chong, K.H., Suherman, A., Turab, A., Staiano, A.E. and Ha, A.S., 2021. Global effect of COVID-19 pandemic on physical activity, sedentary behaviour and sleep among 3-to 5-year-old children: a longitudinal study of 14 countries. BMC public health, 21(1), pp.1-15. DOI:10.1186/s12889-021-10852-3
+1. Okely AD, Kariippanon KE, Guan H, et al. Global effect of COVID-19 pandemic on physical activity, sedentary behaviour and sleep among 3- to 5-year-old children: a longitudinal study of 14 countries. BMC public health 2021;21:940. DOI:10.1186/s12889-021-10852-3
 
-2. **Kim, T.V.**, Pham, T.N.D., Nguyen, C.L.D. et al. Prevalence of Physical Activity, Screen Time, and Sleep, and Associations with Adiposity and Motor Development among Preschool-Age Children in Vietnam: The SUNRISE Vietnam Pilot Study. Indian J Pediatr (2021). https://doi.org/10.1007/s12098-021-03895-2
+2. **Kim TV**, Pham TND, Nguyen CLD, Nguyen TTD, Okely AD, Tang HK. Prevalence of Physical Activity, Screen Time, and Sleep, and Associations with Adiposity and Motor Development among Preschool-Age Children in Vietnam: The SUNRISE Vietnam Pilot Study. Indian J Pediatr 2021. https://doi.org/10.1007/s12098-021-03895-2
 
 Book Chapters
 ------------
-1. Kim TV, Tang HK. Measures of Disease Occurence. In: Tang HK, ed. Basic Epidemiology. Ho Chi Minh, Viet Nam: Viet Nam National University Publishing House; 2021.  
+1. **Kim TV**, Tang HK. Measures of Disease Occurence. In: Tang HK, ed. Basic Epidemiology. Ho Chi Minh, Viet Nam: Viet Nam National University Publishing House; 2021.  
 
-2. Kim TV, Tang HK. Comparing Disease Occurence. In: Tang HK, ed. Basic Epidemiology. Ho Chi Minh, Viet Nam: Viet Nam National University Publishing House; 2021.  
+2. **Kim TV**, Tang HK. Comparing Disease Occurence. In: Tang HK, ed. Basic Epidemiology. Ho Chi Minh, Viet Nam: Viet Nam National University Publishing House; 2021.  
 
-3. Kim TV, Tang HK. Causal Relationship. In: Tang HK, ed. Basic Epidemiology. Ho Chi Minh, Viet Nam: Viet Nam National University Publishing House; 2021.
+3. **Kim TV**, Tang HK. Causal Relationship. In: Tang HK, ed. Basic Epidemiology. Ho Chi Minh, Viet Nam: Viet Nam National University Publishing House; 2021.
 
 Conference presentations
 -----------------------
