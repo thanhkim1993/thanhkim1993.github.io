@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thanh Kim's blog"
+title                    : "Thanh Kim's Homepage"
 title_separator          : "-"
 name                     : &name "Thanh Kim (Kim Văn Thành)"
 description              : &description "Physian scientist at Pham Ngoc Thach University of Medicine"
