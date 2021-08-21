@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Thanh Kim's blog"
 title_separator          : "-"
 name                     : &name "Thanh Kim (Kim Văn Thành)"
-description              : &description "personal description"
+description              : &description "Physian scientist at Pham Ngoc Thach University of Medicine"
 url                      : https://thanhkim1993.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "thanhkim1993/thanhkim1993.github.io"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/thanhkim1993"
+  facebook         : "thanhkim1993"
   foursquare       :
   github           : 
   google_plus      :
