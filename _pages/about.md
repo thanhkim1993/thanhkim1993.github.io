@@ -17,12 +17,14 @@ That's just it. Let's enjoy!
 
 Education
 ---------
-Medical Doctor (2011-2017) Department of Medicine, Pham Ngoc Thach University of Medicine  
-Master of Science (2021- ) International Health Program, School of Medicine, National Yang Ming Chiao Tung University  
+Medical Doctor (2011-2017) Department of Medicine, Pham Ngoc Thach University of Medicine
+
+Master of Science (2021- ) International Health Program, School of Medicine, National Yang Ming Chiao Tung University
 
 Research grants
 ---------------
-Faculty grant ~ 1,150$ USD (2018) Childhood Bone Mineral Density Project  
+Faculty grant ~ 1,150$ USD (2018) Childhood Bone Mineral Density Project
+
 Faculty grant ~ 4,200$ USD (2019) International Study of Movement Behaviours in the Early Years (SUNRISE) project
 
 Awards
@@ -43,7 +45,7 @@ Publications
 
 2. **Kim, T.V.**, Pham, T.N.D., Nguyen, C.L.D. et al. Prevalence of Physical Activity, Screen Time, and Sleep, and Associations with Adiposity and Motor Development among Preschool-Age Children in Vietnam: The SUNRISE Vietnam Pilot Study. Indian J Pediatr (2021). https://doi.org/10.1007/s12098-021-03895-2
 
-Book Chapter
+Book Chapters
 ------------
 1. Kim TV, Tang HK. Measures of Disease Occurence. In: Tang HK, ed. Basic Epidemiology. Ho Chi Minh, Viet Nam: Viet Nam National University Publishing House; 2021.  
 
@@ -51,7 +53,7 @@ Book Chapter
 
 3. Kim TV, Tang HK. Causal Relationship. In: Tang HK, ed. Basic Epidemiology. Ho Chi Minh, Viet Nam: Viet Nam National University Publishing House; 2021.
 
-Conference presentation
+Conference presentations
 -----------------------
 1. Validation of predictive equations against DXA for estimation of body fat composition in Vietnamese children: Preliminary results. The Conference of Science and Techonology 12th, 2019, Pham Ngoc Thach University of Medicine, Ho Chi Minh City, Vietnam.
 
