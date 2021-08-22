@@ -24,6 +24,9 @@ Trang này gồm các phần
 * Các nguồn bổ ích: Chia sẻ các nguồn thú vị
 * CV: Chia sẻ về mình
 
+**Lưu ý**: Trang web đang trong quá trình phát triển nên những bài viết trên đều được gôm vào mục R ứng dụng. Dần dần mình sẽ hoàn thiện giao diện, bố cục, và nội dung nhé. Cám ơn mọi người ủng hộ!
+{: .notice--info}
+
 Thông tin thêm
 ------
 Nếu bạn thích cách bài trí trang nhà của mình, let's folk repository [here](https://github.com/thanhkim1993/thanhkim1993.github.io).
