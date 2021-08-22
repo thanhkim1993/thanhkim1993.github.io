@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thanh Kim's Homepage"
+title                    : "Trang nhà của Thành"
 title_separator          : "-"
-name                     : &name "Thanh Kim (Kim Văn Thành)"
+name                     : &name "Kim Văn Thành"
 description              : &description "Physian scientist at Pham Ngoc Thach University of Medicine"
 url                      : https://thanhkim1993.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Thanh Kim (Kim Văn Thành)"
+  name             : "Kim Văn Thành"
   avatar           : "DSC03126.JPG"
   bio              : "A young man who is so curious about life"
   location         : "Ho Chi Minh city, Viet Nam"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=6aPvtU8AAAAJ"
-  email            :
+  email            : "thanhkv@pnt.edu.vn"
   researchgate     : "https://www.researchgate.net/profile/Thanh-Kim-3"
   uri              :
   bitbucket        :
