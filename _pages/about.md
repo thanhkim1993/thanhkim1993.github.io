@@ -18,7 +18,7 @@ Bố cục trang web
 ---------------
 Trang này gồm các phần
 * Bài viết: Chia sẻ kinh nghiệm và kĩ năng nghiên cứu
-* Nguồn thú vị: Chia sẻ các nguồn cần thiết khi làm khoa học
+* Nguồn bổ ích: Chia sẻ các nguồn cần thiết khi làm khoa học
 * CV: Chia sẻ về mình
 
 **Lưu ý**: Trang web đang trong quá trình phát triển nên không tránh được những sai sót. Dần dần mình sẽ hoàn thiện giao diện, bố cục, và nội dung nhé. Cám ơn mọi người ủng hộ!
