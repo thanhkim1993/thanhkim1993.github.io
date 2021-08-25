@@ -1,7 +1,7 @@
 ---
 title: 'Trình bày ý tưởng nghiên cứu'
 date: 2021-08-21
-permalink: /posts/2021/08/blog-post-3/
+permalink: /posts/2021/08/trinh-bay-y-tuong-nghien-cuu/
 tags:
   - research skills
   - preparation
