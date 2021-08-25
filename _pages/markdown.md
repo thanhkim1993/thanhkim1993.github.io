@@ -6,6 +6,23 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+// Adding 'Contents' headline to the TOC
+#markdown-toc::before {
+    content: "Nội dung";
+    font-weight: bold;
+}
+
+// Using numbers instead of bullets for listing
+#markdown-toc ul {
+    list-style: decimal;
+}
+
+#markdown-toc {
+    border: 1px solid #aaa;
+    padding: 1.5em;
+    list-style: decimal;
+    display: inline-block;
+}
 
 Truyện tranh hài (khoa học)
 =====
@@ -18,6 +35,7 @@ Blog khoa học
 - [Thầy Nguyễn Văn Tuấn](https://nguyenvantuan.info/)
 - [Absolutely Maybe](https://absolutelymaybe.plos.org/)
 - [PLOS SciComm](https://scicomm.plos.org/)
+- [Góc nhìn VnExpress](https://vnexpress.net/goc-nhin)
 
 Khóa học trên Coursera (sử dụng chế độ Audit để học miễn phí)
 =====
