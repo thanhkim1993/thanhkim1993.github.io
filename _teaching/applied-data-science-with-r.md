@@ -9,5 +9,5 @@ date: 2021-08-25
 
 Data visualisation
 ======
-- [Vẽ tháp tuổi với ggplot2 trong R](https://thanhkim1993.github.io/posts/2021/08/ve-thap-tuoi-voi-ggplot2-trong-R/)
+- [Vẽ tháp tuổi với ggplot2 trong R](https://thanhkim1993.github.io/posts/2021/08/ve-thap-tuoi-voi-ggplot2-trong-r/)
 
