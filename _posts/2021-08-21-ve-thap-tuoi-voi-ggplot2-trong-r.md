@@ -1,7 +1,7 @@
 ---
 title: 'Vẽ tháp tuổi với ggplot2 trong R'
 date: 2021-08-21
-permalink: /posts/2021/08/ve-thap-tuoi/
+permalink: /posts/2021/08/ve-thap-tuoi-voi-ggplot2-trong-r/
 tags:
   - data visualisation
   - applied data science with R
