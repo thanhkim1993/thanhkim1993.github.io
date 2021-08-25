@@ -1,7 +1,7 @@
 ---
 title: 'Suy nghĩ khoa học'
 date: 2021-08-21
-permalink: /posts/2021/08/blog-post-2/
+permalink: /posts/2021/08/suy-nghi-khoa-hoc/
 tags:
   - talking science
 ---
