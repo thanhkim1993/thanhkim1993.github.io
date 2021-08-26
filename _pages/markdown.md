@@ -55,8 +55,12 @@ Sách mà dân Y và Y tế công cộng nên đọc
 - [On Immunity and Inoculation của Eula Biss](https://www.gatesnotes.com/Books/On-Immunity)
 - [The Checklist Mannifesto của Atul Gawande](https://www.gatesnotes.com/Health/Can-a-Simple-Safe-Childbirth-Checklist-Save-Lives-in-Developing-Countries)
 - [The Fever của Sonia Shah](https://www.gatesnotes.com/Books/The-Fever)
+- [House On Fire: The Fight to Eradicate Smallpox của William Foege](https://www.gatesnotes.com/Books/House-on-Fire)
+- [Polio An American Story của David Oshinsky](https://www.gatesnotes.com/Books/Polio-An-American-Story)
+- [Jim Grant - UNICEF Visionary](https://www.gatesnotes.com/Books/Jim-Grants-Child-Survival-Revolution). Tải miễn phí [tại đây](https://www.unicef.org/documents/jim-grant-unicef-visionary)
+- [](https://www.gatesnotes.com/Books/An-Elegant-Defense?WT.tsrc=BGTW)
 - [Reinventing American Health Care của Ezekiel J. Emanuel](https://www.gatesnotes.com/Books/Reinventing-American-Health-Care)
-
+- [The cost of hope của Amanda Bennet](https://www.gatesnotes.com/Books/The-Cost-of-Hope)
 - [What If của Randall Munroe](https://www.gatesnotes.com/Books/What-If)
 - [The Magic of Reality của Richard Dawkins](https://www.gatesnotes.com/Books/The-Magic-of-Reality)
 
