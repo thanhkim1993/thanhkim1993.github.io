@@ -52,9 +52,14 @@ Sách mà dân Y và Y tế công cộng nên đọc
 - [I contain multitudes của Ed Yong](https://www.gatesnotes.com/Books/I-Contain-Multitudes)
 - [The Gene của Siddhartha Mukherjee](https://www.gatesnotes.com/Books/The-Gene)
 - [Epic Measure của Jeremy Smith](https://www.gatesnotes.com/Books/Epic-Measures)
+- [On Immunity and Inoculation của Eula Biss](https://www.gatesnotes.com/Books/On-Immunity)
+- [The Checklist Mannifesto của Atul Gawande](https://www.gatesnotes.com/Health/Can-a-Simple-Safe-Childbirth-Checklist-Save-Lives-in-Developing-Countries)
+- [The Fever của Sonia Shah](https://www.gatesnotes.com/Books/The-Fever)
+- [Reinventing American Health Care của Ezekiel J. Emanuel](https://www.gatesnotes.com/Books/Reinventing-American-Health-Care)
+
 - [What If của Randall Munroe](https://www.gatesnotes.com/Books/What-If)
 - [The Magic of Reality của Richard Dawkins](https://www.gatesnotes.com/Books/The-Magic-of-Reality)
-- 
+
 
 Hướng dẫn sử dụng file markdown
 ======
