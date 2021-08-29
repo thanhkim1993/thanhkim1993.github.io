@@ -8,6 +8,8 @@ tags:
 
 Hôm nay, mình chia sẻ cách sử dụng bảng kiểm (checklist) để xây dựng kế hoạch nghiên cứu chi tiết
 
+![image](https://user-images.githubusercontent.com/62500890/131252346-68960b6c-f8f6-4902-a51e-184ebe04b26d.png)
+
 _Viết đề cương (ở đây là [proposal và protocol](https://thanhkim1993.github.io/posts/2021/08/trinh-bay-y-tuong-nghien-cuu/)) tốn khá nhiều thời gian. Quá trình này đòi hỏi người viết có kiến thức chuyên ngành cũng như kĩ năng nghiên cứu. Vì vậy, việc một người làm khoa học gặp sai sót khi viết đề cương là không tránh khỏi. Tuy nhiên, ta có thể tận dụng bảng kiểm để giảm thiểu sai sót và tối ưu hóa quá trình này. Bài viết hôm nay nói về 1) các bảng kiểm phổ biến hiện nay trong y khoa và 2) cách sử dụng chúng khi viết đề cương._
 
 Các bảng kiểm phổ biến hiện nay
