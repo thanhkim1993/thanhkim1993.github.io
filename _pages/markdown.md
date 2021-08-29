@@ -22,6 +22,7 @@ Blog khoa học
 - [Absolutely Maybe](https://absolutelymaybe.plos.org/)
 - [PLOS SciComm](https://scicomm.plos.org/)
 - [Góc nhìn VnExpress](https://vnexpress.net/goc-nhin)
+- [Data Colada](http://datacolada.org/)
 
 Khóa học trên Coursera (sử dụng chế độ Audit để học miễn phí)
 =====
