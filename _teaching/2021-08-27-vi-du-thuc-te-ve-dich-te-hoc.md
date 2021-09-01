@@ -49,3 +49,4 @@ Vắc xin
 ======
 - [Hiệu quả vắc xin là gì (Thầy Tuấn)](https://nguyenvantuan.info/2021/08/10/hieu-qua-vaccine-la-gi/)
 - [Hiệu quả của vắc xin trong cộng đồng và miễn dịch cộng đồng (Thầy Tuấn)](https://nguyenvantuan.info/2021/08/02/hieu-qua-cua-vaccine-trong-cong-dong-va-y-nghia-mien-dich-cong-dong/)
+- [Đánh giá hiệu quả vắc xin cần xét tới Nghịch lý Simpson và phân tích theo nhóm tuổi (Mitchell Tsai](https://qr.ae/pGavqg)
