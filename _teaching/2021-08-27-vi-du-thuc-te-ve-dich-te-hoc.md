@@ -29,9 +29,9 @@ Các thiết kế nghiên cứu
 - [Nghiên cứu hiệu quả vaccine: Thiết kế adaptive, cỡ mẫu, y đức, và tính minh bạch (Thầy TUấn)](https://nguyenvantuan.info/2021/06/29/nghien-cuu-hieu-qua-vaccine-thiet-ke-adaptive-co-mau-y-duc-va-tinh-minh-bach/)
 - [Cần thử nghiệm vắc xin trên bao nhiều người để có kết quả tin cậy (Thầy TUấn)](https://nguyenvantuan.info/2021/06/24/can-thu-nghiem-vaccine-tren-bao-nhieu-nguoi-de-co-ket-qua-tin-cay/)
 
-Suy luận nhân quả
+Sai số và sai lệch
 =====
-
+- [Tại sao tỉ lệ tử vong Covid ở Bình Dương thấp hơn TPHCM (Thầy Tuấn), nói về lead time bias](https://nguyenvantuan.info/2021/09/01/tai-sao-ti-le-tu-vong-covid-o-binh-duong-thap-hon-tphcm/)
 
 Quản lý vụ dịch
 =====
