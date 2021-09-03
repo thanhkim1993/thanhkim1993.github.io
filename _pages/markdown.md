@@ -18,11 +18,12 @@ Truyện tranh hài (khoa học)
 
 Blog khoa học
 =====
-- [Thầy Nguyễn Văn Tuấn](https://nguyenvantuan.info/)
+- [Thầy Nguyễn Văn Tuấn - Giáo sư Dịch tễ, Thống kê y học và Tiên lượng](https://nguyenvantuan.info/)
 - [Absolutely Maybe](https://absolutelymaybe.plos.org/)
 - [PLOS SciComm](https://scicomm.plos.org/)
 - [Góc nhìn VnExpress](https://vnexpress.net/goc-nhin)
 - [Data Colada](http://datacolada.org/)
+- [Covid Data Science, của Giáo sư Thống kê Y học Jeffrey Morris](https://www.covid-datascience.com/)
 
 Khóa học trên Coursera (sử dụng chế độ Audit để học miễn phí)
 =====
