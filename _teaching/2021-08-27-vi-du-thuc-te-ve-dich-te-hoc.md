@@ -49,4 +49,4 @@ Vắc xin
 ======
 - [Hiệu quả vắc xin là gì (Thầy Tuấn)](https://nguyenvantuan.info/2021/08/10/hieu-qua-vaccine-la-gi/)
 - [Hiệu quả của vắc xin trong cộng đồng và miễn dịch cộng đồng (Thầy Tuấn)](https://nguyenvantuan.info/2021/08/02/hieu-qua-cua-vaccine-trong-cong-dong-va-y-nghia-mien-dich-cong-dong/)
-- [Đánh giá hiệu quả vắc xin cần xét tới Nghịch lý Simpson và phân tích theo nhóm tuổi (Mitchell Tsai](https://qr.ae/pGavqg)
+- [Đánh giá hiệu quả vắc xin cần xét tới Nghịch lý Simpson và phân tích theo nhóm tuổi (Jeffrey Moris)](https://www.covid-datascience.com/post/israeli-data-how-can-efficacy-vs-severe-disease-be-strong-when-60-of-hospitalized-are-vaccinated) và [nhận xét của Mitchel Tsai (Former Harvard virus researcher)](https://coronavirus.quora.com/Dangers-in-computing-Vaccine-Effectiveness-VE-Jeffrey-Morris-s-illustration-of-Simpson-s-Paradox-using-Israel-data)
